@@ -1,5 +1,3 @@
-Yetgen
-Jump
-Core
+Deneme
 Python
-4
+JuDeneme
