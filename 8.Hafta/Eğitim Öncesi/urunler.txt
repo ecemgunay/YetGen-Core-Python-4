@@ -1,2 +1,3 @@
-Ürün Adı, Ürün FiyatıKruvasan,200.0
-Kruvasan,200.0
+bowl,200.0
+Soda,150.0
+Çikolata,50.0
